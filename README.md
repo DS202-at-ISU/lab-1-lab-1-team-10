@@ -21,4 +21,4 @@ you are done with your submission.
 RStudio in computer. 12.2 Create github repo for team 10 12.3 Had no
 issue clone the github repo 12.4 No issues, did not have any issues 12.5
 Push update to Github, no issues facing 12.6 My changes appeared on the
-README on github.
+README on github, no issues facing.
