@@ -1,0 +1,48 @@
+---
+title: 'DS 202 - Homework #1'
+author: "Thien Nguyen Tam"
+date: "09/08/24"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Asking good questions
+
+Asking good questions is a valuable skill to have - asking questions in an online setting is both easier and harder than asking questions in person: we can prepare to ask a question but we are also expected to prepare. The links posted here give some advice on how to ask good questions:
+
+-   stackoverflow's [Asking a good question](http://stackoverflow.com/help/how-to-ask)
+
+-   R's [Posting guidelines](https://www.r-project.org/posting-guide.html)
+
+-   [minimal complete verifiable example](https://stackoverflow.com/help/mcve), [minimal reproducible example](https://www.tidyverse.org/help/)
+
+Follow these links and read through the advice given, then
+
+0.  **Download the (R)Markdown file with these homework instructions to use as a template for your work. Make sure to replace "Your Name" in the YAML with your name.**
+
+1.  **Pick one question from stackoverflow and identify a minimum of three way(s) in which it is not asked well.** I choose this question on StackOverFlow: [Why doesn't this inline expression 'r getwd()\|\>strsplit('/')' work when inside the yaml header of a rmarkdown document]
+
+    **Lack of Error Details**: The question refers to a "halted execution" error but doesn't specify the exact error message, making it difficult for others to diagnose the issue.
+
+    **Insufficient Context**: It doesn't provide enough context about the environment or the expected outcome, leaving readers guessing about the specific problem being faced.
+
+    **Unclear Code Purpose**: The question includes code snippets without explaining why certain functions (like pluck(1) and pluck(7)) are used, which can confuse those unfamiliar with the intent behind them.
+
+2.  **(1 point) Which question did you pick (link to it).** [Why doesn't this inline expression 'r getwd()\|\>strsplit('/')' work when inside the yaml header of a rmarkdown document](https://stackoverflow.com/questions/78975000/why-doesnt-this-inline-expression-r-getwd-strsplit-work-when-inside)
+
+3.  **(1 point) Take a screenshot (or take a picture with your phone). Make sure to place the image in the same folder as your Rmarkdown file and include it in your (R)markdown file.**
+
+    ![](images/question1_hw1.png)
+
+4.  **(3 points) Relate the readings to how the question is phrased: for that, write a paragraph on what a good question should do and then state what the stackoverflow question does. Identify at least three shortcomings.** A well-phrased question should clearly state the problem, provide sufficient context, and include any relevant code or error messages. It should be structured to allow others to understand the issue without needing additional information. Specificity is key, as it helps in diagnosing the problem efficiently. Additionally, a good question should indicate what has been tried and what the expected outcome is.
+
+5.  **(3 points) Re-phrase the question to make it better. You can use placeholders for information that is not given in the original question, e.g. "version" or "platform".** I'm trying to include part of a directory name as a subtitle in the YAML header of an RMarkdown document using inline R code. The code snippet below works in an R chunk but not in the YAML header when knitting:
+
+When I attempt this, I receive a "halted execution" error. I'm using R version [version] on [platform]. What could be causing this issue, and how can I resolve it or achieve the desired outcome in a different way?
+
+Note: (2 points) make sure that your submission is fully reproducible, i.e. the TA and I will 'knit' your submission in RStudio. Including any links to files is the tricky part here. Make sure that you don't use any file structure that depends on your computing environment.
+
+For the submission: submit a zipped file solution in an R Markdown file and (just for insurance) submit the corresponding html (or Word) file with it.
