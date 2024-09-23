@@ -34,12 +34,12 @@ the README file on GitHub, confirming that the entire workflow.
 
 “This is a line from RStudio” Tam Minh Nguyen - 12.1 I downloaded Git,
 R, and Rstudio and then installed them on my computer. I didn’t face any
-issues in this part. On step 12.2, my teammate already created team
-repository so I just joined the repository and ready to work. On step
-12.3, I cloned our team repository to my local machine. Initially, I was
-not really familiar with Git so I got struggle a bit to get familiarized
-with it and tried to memorize many Git syntax. On step 12.4, after get
-used to Git, I had no issues on this part, and everything is great to
-me. On step 12.5, I pushed my team’s updated work to Github. On step
-12.6, my changes finally appeared on the README on Github and I have no
-issues with it
+issues in this part. In step 12.2, my teammate had already created a
+team repository, so I just joined the repository and got ready to work.
+In step 12.3, I cloned our team repository to my local machine.
+Initially, I was not familiar with Git, so I struggled a bit to get
+familiarized with it and tried to memorize many Git syntax. On step
+12.4, after getting used to Git, I had no issues on this part, and
+everything is great. On step 12.5, I pushed my team’s updated work to
+Github. On step 12.6, my changes finally appeared on the README on
+GitHub, and I have no issues with it.
