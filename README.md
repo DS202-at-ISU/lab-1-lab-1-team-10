@@ -40,4 +40,6 @@ repository so I just joined the repository and ready to work. On step
 not really familiar with Git so I got struggle a bit to get familiarized
 with it and tried to memorize many Git syntax. On step 12.4, after get
 used to Git, I had no issues on this part, and everything is great to
-me. On step 12.5, I pushed my team’s updated work to Github.
+me. On step 12.5, I pushed my team’s updated work to Github. On step
+12.6, my changes finally appeared on the README on Github and I have no
+issues with it
