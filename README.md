@@ -44,4 +44,9 @@ everything is great. On step 12.5, I pushed my team’s updated work to
 Github. On step 12.6, my changes finally appeared on the README on
 GitHub, and I have no issues with it.
 
-"This is a line from RSTUDIO" Shivansh Patel - 
+“This is a line from RSTUDIO” Shivansh Patel - I was able to work on
+this lab without many errrs due to already having Git installed on my
+computer. My teammate Bach Nguyen had already created our group 10’s
+repository so I just had to clone it to my machine. Changing the file,
+committing and pushing were also simple and I was able to go through
+chapter 12’s instructions.
