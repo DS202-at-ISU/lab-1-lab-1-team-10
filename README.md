@@ -43,3 +43,5 @@ familiarized with it and tried to memorize many Git syntax. On step
 everything is great. On step 12.5, I pushed my team’s updated work to
 Github. On step 12.6, my changes finally appeared on the README on
 GitHub, and I have no issues with it.
+
+"This is a line from RSTUDIO" Shivansh Patel - 
